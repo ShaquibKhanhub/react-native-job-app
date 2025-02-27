@@ -5,6 +5,23 @@
       "expo-router"
     ],
     "name": "Job-App",
-    "slug": "Job-App"
+    "slug": "Job-App",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "e1d1f29c-12be-468d-8e76-e46fd4224492"
+      }
+    },
+    "owner": "shaquib_khan",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/e1d1f29c-12be-468d-8e76-e46fd4224492"
+    },
+    "android": {},
+    "ios": {}
   }
 }
